@@ -1,2 +1,4 @@
 # hello-world
-It is a hello world project.
+
+Hi,
+I am Saikat . I am C & C++ programmer. 
